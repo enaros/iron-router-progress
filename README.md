@@ -1,4 +1,5 @@
 # iron-router-progress
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/enaros/iron-router-progress?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Implements a simple progress bar, when loading different routes.
 Example running at: https://iron-router-progress.meteor.com/
